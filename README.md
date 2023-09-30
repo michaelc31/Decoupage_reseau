@@ -15,9 +15,9 @@ le CIDR est equal a `2^5 = 32 - 6 = 26` donc `CIDR /26`
 |Le Pôle Technicien (4 bureaux, environ 15 équipements au total) | 172.16.1.192/26 | 172.16.2.0| 172.16.1.193 | 172.16.1.255 |
 
 
-# ***decoupage Asymetrique:***
+# ***Découpage Asymetrique:***
 
-on va calculer pour chaque pole le nombre d adresse par rapport aux equipements en prenant les poles ayant le plus d'équipements en 1er: 
+on va calculer pour chaque pôle le nombre d adresse par rapport aux equipements en prenant les pôles ayant le plus d'équipements en 1er: 
 
  - le Pôle informatiques ( 6 bureaux, environ 50 équipements au totals ) : `2^6 = 64` adresses du coup CIDR de `2^5 = 32 - 6 = 26` donc `CIDR /26`
 
