@@ -32,4 +32,4 @@ on va calculer pour chaque pôle le nombre d adresse par rapport aux equipements
 |Le Pôle informatique (6 bureaux, environ 50 équipements au total) | 172.16.1.0/26 | 172.16.1.63 | 172.16.1.1 | 172.16.1.62 |
 | Le Pôle Administratif (4 bureaux, environ 20 équipements au total) | 72.16.1.64/27 | 172.16.1.95 | 172.16.1.65 | 172.16.1.94 |
 | Le Pôle Technicien (4 bureaux, environ 15 équipements au total) | 172.16.1.96/27 | 172.16.1.127 | 172.16.1.97 | 172.16.1.126 |
-|Le Pôle développement (6 bureaux, environ 12 équipements au total) | 172.16.1.128/28 | 172.16.1.144| 172.16.1.129 | 172.16.1.143 |
+|Le Pôle développement (6 bureaux, environ 12 équipements au total) | 172.16.1.128/28 | 172.16.1.143| 172.16.1.129 | 172.16.1.142 |
