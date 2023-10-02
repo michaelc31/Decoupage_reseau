@@ -10,9 +10,9 @@ le CIDR est equal a `2^5 = 32 - 6 = 26` donc `CIDR /26`
 | Nom du Pole | Adresse réseau | Adresse de broadcast | Adresse de début de plage | Adresse de fin de plage |
 |:-----|:-----|:----|:-----|:-----|
 |Le Pôle informatique (6 bureaux, environ 50 équipements au total) | 172.16.1.0/26 | 172.16.1.63 | 172.16.1.1 | 172.16.1.62 |
-|Le Pôle développement (6 bureaux, environ 12 équipements au total) | 72.16.1.64/26 | 172.16.1.127 | 172.16.1.65 | 172.16.1.126 |
-|Le Pôle Administratif (4 bureaux, environ 20 équipements au total) | 172.16.1.128/26 | 172.16.1.191 | 172.16.1.130 | 172.16.1.190 |
-|Le Pôle Technicien (4 bureaux, environ 15 équipements au total) | 172.16.1.192/26 | 172.16.2.0| 172.16.1.193 | 172.16.1.255 |
+|Le Pôle développement (6 bureaux, environ 12 équipements au total) | 172.16.1.64/26 | 172.16.1.127 | 172.16.1.65 | 172.16.1.126 |
+|Le Pôle Administratif (4 bureaux, environ 20 équipements au total) | 172.16.1.128/26 | 172.16.1.191 | 172.16.1.129 | 172.16.1.190 |
+|Le Pôle Technicien (4 bureaux, environ 15 équipements au total) | 172.16.1.192/26 | 172.16.1.255| 172.16.1.193 | 172.16.1.254 |
 
 
 # ***Découpage Asymetrique:***
